@@ -1,2 +1,2 @@
 # portfolio
-This repository contains my personal portfolio based on this one: https://github.com/midudev/porfolio.dev
+Here's my personal portfolio, modeled after https://github.com/midudev/porfolio.dev. It showcases my work, skills, and experiences.
